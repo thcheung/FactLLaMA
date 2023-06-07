@@ -1,4 +1,4 @@
-# CDGTN
+# FactLLaMA
 The official code of paper, "FactLLaMA: Optimizing Instruction-Following Language Models with External Knowledge for Automated Fact-Checking".
 
 ## Abstract
