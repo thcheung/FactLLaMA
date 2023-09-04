@@ -4,6 +4,8 @@ The official code of paper, "FactLLaMA: Optimizing Instruction-Following Languag
 ## Datasets
 The raw datasets can be downloaded at [CofCED](https://github.com/Nicozwy/CofCED).
 
+## Citation
+
 Please cite our work if you found this project useful.
 
 ```
