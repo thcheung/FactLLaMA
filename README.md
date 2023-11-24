@@ -12,12 +12,13 @@ This project is built based on [Alpaca-Lora](https://github.com/tloen/alpaca-lor
 Please cite our work if you found this project useful.
 
 ```
-@misc{cheung2023factllama,
-      title={FactLLaMA: Optimizing Instruction-Following Language Models with External Knowledge for Automated Fact-Checking}, 
-      author={Tsun-Hin Cheung and Kin-Man Lam},
-      year={2023},
-      eprint={2309.00240},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
+@INPROCEEDINGS{10317251,
+  author={Cheung, Tsun-Hin and Lam, Kin-Man},
+  booktitle={2023 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)}, 
+  title={FactLLaMA: Optimizing Instruction-Following Language Models with External Knowledge for Automated Fact-Checking}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={846-853},
+  doi={10.1109/APSIPAASC58517.2023.10317251}}
 ```
