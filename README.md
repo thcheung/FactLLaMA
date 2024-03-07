@@ -4,6 +4,9 @@ The official code of paper, "FactLLaMA: Optimizing Instruction-Following Languag
 ## Datasets
 The raw datasets can be downloaded at [CofCED](https://github.com/Nicozwy/CofCED).
 
+## Checkpoints
+The LORA checkpoints can be downloaded at [here](https://connectpolyu-my.sharepoint.com/:u:/g/personal/19104564r_connect_polyu_hk/EUaNsh5QMjhBtnQsjj4Cd2YBZ5sKBmTkRMmVCQUaK1XQPw?e=i26g5K).
+
 ## Acknowledgment
 This project is built based on [Alpaca-Lora](https://github.com/tloen/alpaca-lora.git).
 
